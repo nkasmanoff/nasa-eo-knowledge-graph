@@ -7,6 +7,14 @@ relating entities with relations based on the Spacy extracted grammatical proper
 This work is heavily based https://www.kaggle.com/nageshsingh/build-knowledge-graph-using-python, and https://github.com/lingfeiwu/people2vec/blob/master/TransE_WorldCup2014.ipynb, meant to get the code started, but there are plenty of ways to build on this work noted below. 
 
 
+## Early Results
+
+The following is one extracted portion of the full knowledge graph, where we can see what entities are related by the verb "triggered"
+
+![](https://github.com/nkasmanoff/nasa-eo-knowledge-graph/bin/entities linked by triggered.png) 
+
+
+
 
 ## Future Steps / Questions
     - would an Earth Science Specific text model be able to better extract entities and relations?
