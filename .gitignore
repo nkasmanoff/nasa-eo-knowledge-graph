@@ -1,0 +1,5 @@
+**.sql
+*.env
+*raw
+*.DS_Store
+*.html
