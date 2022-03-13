@@ -11,9 +11,7 @@ This work is heavily based https://www.kaggle.com/nageshsingh/build-knowledge-gr
 
 The following is one extracted portion of the full knowledge graph, where we can see what entities are related by the verb "triggered"
 
-![](https://github.com/nkasmanoff/nasa-eo-knowledge-graph/bin/entitieslinkedbytriggered.png) 
-
-
+![](https://github.com/nkasmanoff/nasa-eo-knowledge-graph/blob/main/bin/entitieslinkedbytriggered.png) 
 
 
 ## Future Steps / Questions
